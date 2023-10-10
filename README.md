@@ -7,6 +7,7 @@
 </p>
 😄 Progress Before I Go Insane
 ![Progress](https://progress-bar.dev/10/)
+https://progress-bar.dev/28/
 
 <!--
 **JxM3gro/JxM3gro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
