@@ -5,10 +5,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
-<p>
 😄 Progress Before I Go Insane
 https://progress-bar.dev/10
-</p>
 
 <!--
 **JxM3gro/JxM3gro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
