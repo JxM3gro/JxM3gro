@@ -7,7 +7,7 @@
 </p>
 <p>
 😄 Progress Before I Go Insane
-https://progress-bar.dev/<50>
+https://progress-bar.dev/10
 </p>
 
 <!--
